@@ -1,0 +1,9 @@
+venv/
+*.dll
+*.pyd
+*.lib
+*.log
+*.env
+__pycache__/
+node_modules/
+*.safetensors
