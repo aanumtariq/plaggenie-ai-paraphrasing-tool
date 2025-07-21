@@ -3,6 +3,7 @@
 <div align="center" class="text-center">
 <h1>PLAGGENIE-AI-PARAPHRASING-TOOL</h1>
 <p><em>Transform Words, Elevate Ideas Instantly</em></p>
+<p><strong>📘 Final Year Project - BS Computer Science (2025)</strong></p>
 
 <img alt="last-commit" src="https://img.shields.io/github/last-commit/aanumtariq/plaggenie-ai-paraphrasing-tool?style=flat&amp;logo=git&amp;logoColor=white&amp;color=0080ff" class="inline-block mx-1" style="margin: 0px 2px;">
 <img alt="repo-top-language" src="https://img.shields.io/github/languages/top/aanumtariq/plaggenie-ai-paraphrasing-tool?style=flat&amp;color=0080ff" class="inline-block mx-1" style="margin: 0px 2px;">
@@ -41,7 +42,9 @@
 <h2>Overview</h2>
 <p>Plaggenie AI Paraphrasing Tool is an intelligent platform that uses advanced NLP models to generate clear, plagiarism-free content in various styles such as Formal, Creative, and Concise. Designed for developers, it offers a seamless experience for integrating content rewriting into your applications.</p>
 <p><strong>Why plaggenie-ai-paraphrasing-tool?</strong></p>
-<p>This project aims to simplify content transformation while providing secure user management and monetization features. The core features include:</p>
+<p>This project aims to simplify content transformation while providing secure user management and monetization features. </p>
+<p><strong>Note:</strong> This project was developed as part of my Final Year Project for BS Computer Science (2025).</p>
+<p>The core features include:</p>
 <ul class="list-disc pl-4 my-0">
 <li class="my-0">🧠 <strong>🤖 Paraphrasing Modes:</strong> Multiple AI-powered styles to suit diverse writing needs.</li>
 <li class="my-0">🚀 <strong>🔐 User Authentication:</strong> Secure login, credit management, and personalized user experience.</li>
